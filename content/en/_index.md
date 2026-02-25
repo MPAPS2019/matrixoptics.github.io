@@ -15,11 +15,11 @@ type: home_index
 heroBlock:
   block: hero
   content:
-    title: Random Matrix Optics Research Group
+    title: Matrix Optics Research Group
 #    image:
 #      filename: research_topic.jpg
     text: |
-      Random matrix optics introduces the random matrix toolbox to the representation of light wave-particle duality. Starting in 2019, our group focused on light field representation, decomposition, detection, and manipulation using the random matrix representation. Random matrix representation provides a statistical gating strategy for different components in the light field. For example, the single and multiple scattering component in wide-field reflective imaging; the ballistic and multiple scattering component in spectral-domain OCT. The gated multiple scattering component facilitates the calculation of absorption information for in-vivo tissue imaging.
+      Matrix Optics is dedicated to integrating random matrix theory with wavefront shaping and optical imaging for clinical medical applications.
   
 heroSlideBlock:
   block: slider
